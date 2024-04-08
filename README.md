@@ -9,3 +9,7 @@ In this project, you will learn how localStorage works in JavaScript by building
 The HTML and CSS for this project have been provided for you. Take a look at the files to get yourself familiarized with them.
 
 In projects, how to add and remove classes from an element with el.classList.add() and el.classList.remove(). Another method to use with the classList property is the toggle method.
+
+![3](https://github.com/SamitSaha/TO-DO-Apps/assets/72096509/b152b0b0-9e93-4fc4-99f4-3d1a3352f17d)
+![1](https://github.com/SamitSaha/TO-DO-Apps/assets/72096509/6136e3f4-0d43-4443-9ffd-1d829671bdea)
+![2](https://github.com/SamitSaha/TO-DO-Apps/assets/72096509/ce633ae1-5928-4a56-9580-483d0738606b)
