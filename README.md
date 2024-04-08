@@ -7,3 +7,5 @@ In this TODO application, you'll learn how to handle form inputs, manage local s
 In this project, you will learn how localStorage works in JavaScript by building a Todo app. LocalStorage is a web storage feature of JavaScript that lets you persist data by storing the data as a key:value pair.
 
 The HTML and CSS for this project have been provided for you. Take a look at the files to get yourself familiarized with them.
+
+In projects, how to add and remove classes from an element with el.classList.add() and el.classList.remove(). Another method to use with the classList property is the toggle method.
